@@ -1,0 +1,271 @@
+:root{
+    --biru: blue;
+    
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: white;
+    border-bottom: 1px solid #B6C0C1;
+    /* display: none; */
+}
+.ml{
+    margin-left: auto !important;
+}
+.blue{
+    color: #013E5B;
+}
+.nav-link{
+    color: black;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.3s;
+    margin-left: 10px;
+}
+.nav-link:hover{
+    color: white;
+    background-color: black;
+}
+.navbar-brand{
+    font-size: 1.25rem;
+    font-weight: 800;
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+/* Main Section */
+.main{
+    width: 100%;
+    height: 100vh;
+    /* background: url('assets/main-profile.png') no-repeat; */
+    /* overflow: hidden; */
+}
+.main .flex{
+    display: flex;
+}
+.top150{
+    margin-top: 150px;
+}
+.main h3{
+    font-size: 4.4rem;
+    font-weight: 700;
+}
+.main h6{
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    line-height: 1;
+    border-bottom: 3px solid #013E5B;
+    width: 40%;
+}
+.main .bt1{
+    height: 55px;
+    width: 138px;
+    background-color: #013E5A;
+    color: white;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid #013E5B;
+}
+.main .bt1:hover{
+    background-color: white;
+    border: 1px solid #013E5B;
+    color: #013E5B;
+    transition: 0.5s;
+}
+/* .main .bt2{
+    height: 55px;
+    width: 138px;
+    background-color: white;
+    color: rgb(233,20,109);
+    border: 1px solid rgb(233,20,109);
+    outline: none;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.main .bt2:hover{
+    background-color: rgb(233,20,109);
+    transition: 0.5s;
+    color: white;
+} */
+
+/* About Me Section */
+.margins{
+    margin-left: 15px;
+    margin-top: 3px;
+}
+.about-me{
+    width: 100vw;
+    height: 100vh;
+    /* overflow: hidden; */
+}
+.col-lg-5 img{
+    width: 30vw;
+    --webkit-box-shadow: 6px 4px 41px -24px rgba(0,0,0,0.75);
+    --moz-box-shadow: 6px 4px 41px -24px rgba(0,0,0,0.75);
+    box-shadow: 6px 4px 41px -24px rgba(0,0,0,0.75);
+    /* filter: grayscale(100%); */
+}
+h1{
+     font-size: 3rem;
+     font-weight: 900;
+}
+.progress{
+    background-color: rgb(233,219,219);
+    justify-content: flex-start;
+    border-radius: 50px;
+    align-items: center;
+    position: relative;
+    display: flex;
+    height: 25px;
+    width: 100%;
+}
+.progess p{
+    color: white;
+    padding: 12px;
+}
+.pro-value1{
+    animation: load1 3s normal forwards;
+    border-radius: 50px;
+    background-color: black;
+    height: 25px;
+    width: 0;
+}
+@keyframes load1{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 98%;
+    }
+}
+.pro-value2{
+    animation: load2 3s normal forwards;
+    border-radius: 50px;
+    background-color: black;
+    height: 25px;
+    width: 0;
+}
+@keyframes load2{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 40%;
+    }
+}
+.pro-value3{
+    animation: load3 3s normal forwards;
+    border-radius: 50px;
+    background-color: black;
+    height: 25px;
+    width: 0;
+}
+@keyframes load3{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 30%;
+    }
+}
+.pro-value4{
+    animation: load4 3s normal forwards;
+    border-radius: 50px;
+    background-color: black;
+    height: 25px;
+    width: 0;
+}
+@keyframes load4{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 76%;
+    }
+}
+.pro-value5{
+    animation: load5 3s normal forwards;
+    border-radius: 50px;
+    background-color: black;
+    height: 25px;
+    width: 0;
+}
+@keyframes load5{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 66%;
+    }
+}
+
+.about-me .btn1{
+    height: 40px;
+    width: 145px;
+    outline: none;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+}
+.about-me .btn1:hover{
+    background-color: transparent;
+    color: black;
+    border: 1px solid black;
+    transition: 0.5s;
+}
+.about-me .btn2{
+    height: 40px;
+    width: 145px;
+    outline: none;
+    border: none;
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    border-radius: 4px;
+}
+.about-me .btn2:hover{
+    background-color: black;
+    color: white;
+    border: none;
+    transition: 0.5s;
+}
+
+/* Service Section */
+.services{
+    background-color: #F7F9FB;
+}
+.card{
+    border: none;
+    outline: none;
+    box-shadow: -8px 6px 89px -65px rgba(0,0,0,0.75);
+}
+.card p{
+    color: gray;
+}
+.circle{
+   height: 70px;
+   width: 70px;
+   background-color: lightgrey;
+   color: black;
+   padding: 12px;
+   display: inline-block;
+   margin-bottom: 20px;
+   font-size: 30px;
+   border-radius: 50%;
+}
+.card:hover .circle{
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+}
