@@ -28,27 +28,27 @@
                     
                     <div class="progress">
                         <div class="pro-value1">
-                            <p class="text-white margins">Indonesian</p>
+                            <p class="text-white margins">{{ $var1 }}</p>
                         </div>
-                    </div>  
+                    </div>
                     <div class="progress my-3">
                         <div class="pro-value2">
-                            <p class="text-white margins">Javanese</p>
+                            <p class="text-white margins">{{ $var2 }}</p>
                         </div>
                     </div>  
                     <div class="progress">
                         <div class="pro-value3">
-                            <p class="text-white margins">Balinese</p>
+                            <p class="text-white margins">{{ $var3 }}</p>
                         </div>
                     </div>  
                     <div class="progress my-3">
                         <div class="pro-value4">
-                            <p class="text-white margins">English</p>
+                            <p class="text-white margins">{{ $var4 }}</p>
                         </div>
                     </div>  
                     <div class="progress my-3">
                         <div class="pro-value5">
-                            <p class="text-white margins">Chinese</p>
+                            <p class="text-white margins">{{ $var5 }}</p>
                         </div>
                     </div>  
 {{-- 

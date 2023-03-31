@@ -20,10 +20,10 @@
                 <div class="card text-center py-3">
                     <div class="card-body">
                         <div class="circle">
-                            <span><i class="fas fa-desktop"></i></span>
+                            <span><i class="fas fa-school"></i></span>
                         </div>
                         <h4 class="font-weight-bold pb-2">Elementary School</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem commodi voluptatibus officiis debitis nostrum! Eveniet minus nobis, velit incidunt, repellat fugit molestias ullam error dicta voluptas fugiat, deleniti ut cum.</p>
+                        <p>My elementary school was in Bali, Indonesia. I studied in a national plus school. <br>I graduated after the 6 years studying process on the year 2012. Its name was Universal Elementary School.</p>
                     </div>
                 </div>
             </div>
@@ -31,10 +31,10 @@
                 <div class="card text-center py-3">
                     <div class="card-body">
                         <div class="circle">
-                            <span><i class="fas fa-desktop"></i></span>
+                            <span><i class="fas fa-school"></i></span>
                         </div>
                         <h4 class="font-weight-bold pb-2">Junior High School</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem commodi voluptatibus officiis debitis nostrum! Eveniet minus nobis, velit incidunt, repellat fugit molestias ullam error dicta voluptas fugiat, deleniti ut cum.</p>
+                        <p>My junior high school was in Bali, Indonesia. I studied in a national plus school. <br>I graduated after the 3 years studying process on the year 2018. Its name was Universal Junior High School.</p>
                     </div>
                 </div>
             </div>
@@ -42,10 +42,10 @@
                 <div class="card text-center py-3">
                     <div class="card-body">
                         <div class="circle">
-                            <span><i class="fas fa-desktop"></i></span>
+                            <span><i class="fas fa-school"></i></span>
                         </div>
                         <h4 class="font-weight-bold pb-2">Senior High School</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem commodi voluptatibus officiis debitis nostrum! Eveniet minus nobis, velit incidunt, repellat fugit molestias ullam error dicta voluptas fugiat, deleniti ut cum.</p>
+                        <p>My senior high school was in Bali, Indonesia. I studied in a local school. <br>I graduated after the 3 years studying process on the year 2021. Its name was Swastiastu Senior High School.</p>
                     </div>
                 </div>
             </div>
@@ -58,5 +58,6 @@
     <script>
         AOS.init();
     </script>
+    <script src="https://kit.fontawesome.com/c26cd2166c.js"></script>
 </body>
 </html>
