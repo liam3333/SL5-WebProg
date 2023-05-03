@@ -25,6 +25,7 @@
                     <a href="/skill-experience" class="nav-link px-lg-4 rounded">Skills & Experience</a>
                     {{-- <a href="/experience" class="nav-link px-lg-4 rounded">Experiences</a> --}}
                     <a href="/education" class="nav-link px-lg-4 rounded">Education</a>
+                    <a href="/favorite" class="nav-link px-lg-4 rounded">Favorite MLBB Heroes</a>
                 </div>
             </div>
         </div>

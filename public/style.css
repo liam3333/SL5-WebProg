@@ -293,3 +293,52 @@ h1{
     color: white;
     transition: 0.5s;
 }
+
+/* Favorite Heroes */
+.image-wrap{
+    height: 350px;
+    width: 100%;
+    overflow: hidden;
+}
+.image-wrap img{
+    transition: 0.3s;
+}
+.image-wrap img:hover{
+    transform: scale(1.05);
+}
+
+.fighter{
+    border: 5px solid #8B4515;
+    color: #8B4515;
+    border-radius: 25px;
+}
+.tank{
+    border: 5px solid #A9A9A9;
+    color: #A9A9A9;
+    border-radius: 25px;
+}
+.mage{
+    border: 5px solid #800080;
+    color: #800080;
+    border-radius: 25px;
+}
+.assassin{
+    border: 5px solid #8B0000;
+    color: #8B0000;
+    border-radius: 25px;
+}
+.marksman{
+    border: 5px solid #AA6C39;
+    color: #AA6C39;
+    border-radius: 25px;
+}
+
+.hero-details{
+    display: grid;
+    grid-template-columns: 10% 90%;
+}
+
+.picture{
+    height: 80vh;
+    width: 10vw;
+}
