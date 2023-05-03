@@ -33,4 +33,4 @@ Education menampilkan bagaimana jenjang pendidikan saya sebelumnya dimulai dari 
 ### Favorite
 Favorite menampilkan daftar hero yang sering saya gunakan beserta role, winrate, hero power, dan matches.
 ![Favorite](https://github.com/liam3333/Profile/blob/main/Dokumentasi/Favorite.jpg)
-![Favorite](https://github.com/liam3333/Profile/blob/main/Dokumentasi/Favorite-Details.jpg)
+![Details](https://github.com/liam3333/Profile/blob/main/Dokumentasi/Favorite-Details.jpg)
