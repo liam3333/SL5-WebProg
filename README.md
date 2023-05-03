@@ -12,7 +12,6 @@ Berikut adalah dokumentasi code saya, yang meliputi instalasi Bootstrap melalui 
 ![Code](https://github.com/liam3333/Profile/blob/main/Dokumentasi/CodeDocumentation.jpg)
 
 ## Dokumentasi WEb Profile
-https://user-images.githubusercontent.com/90696675/235830530-21329c2d-212c-4390-ac9a-219f3c644e19.mp4
 
 ### Home Page
 Home page menampilkan profil singkat tentang diri saya dan jenjang perkuliahan saya.
@@ -31,6 +30,7 @@ Education menampilkan bagaimana jenjang pendidikan saya sebelumnya dimulai dari 
 ![Education](https://github.com/liam3333/Profile/blob/main/Dokumentasi/Education.jpg)
 
 ### Favorite
-Favorite menampilkan daftar hero yang sering saya gunakan beserta role, winrate, hero power, dan matches.
-![Favorite](https://github.com/liam3333/Profile/blob/main/Dokumentasi/Favorite.jpg)
-![Details](https://github.com/liam3333/Profile/blob/main/Dokumentasi/Favorite-Details.jpg)
+Favorite menampilkan daftar hero yang sering saya gunakan beserta role, winrate, hero power, dan matches. Detailnya dapat dilihat melalui dokumentasi video berikut.
+
+## Tampilan Dokumentasi
+https://user-images.githubusercontent.com/90696675/235830530-21329c2d-212c-4390-ac9a-219f3c644e19.mp4
