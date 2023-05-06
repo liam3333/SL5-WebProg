@@ -16,6 +16,7 @@ Berikut adalah dokumentasi code saya, yang meliputi instalasi Bootstrap melalui 
 ### Home Page
 Home page menampilkan profil singkat tentang diri saya dan jenjang perkuliahan saya.
 ![Home](https://github.com/liam3333/Profile/blob/main/Dokumentasi/HomePage.jpg)
+![Home](https://github.com/liam3333/Profile/blob/main/Dokumentasi/HomePage.jpg)
 
 ### About Me
 About Me menampilkan data diri saya lebih detail dengan menampilkan kemampuan-kemampuan berbahasa saya.
