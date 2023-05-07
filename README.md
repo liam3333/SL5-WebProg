@@ -11,11 +11,11 @@ Web profile dari SL saya buat menggunakan Laravel dengan framework Bootstrap. Sa
 Berikut adalah dokumentasi code saya, yang meliputi instalasi Bootstrap melalui library npm dan menerapkan route Laravel di web.php untuk mendirect ke halaman web lainnya seperti pada dokumentasi web di bawah ini. 
 ![Code](https://github.com/liam3333/Profile/blob/main/Dokumentasi/CodeDocumentation.jpg)
 
-## Dokumentasi WEb Profile
+## Dokumentasi Web Profile
+https://user-images.githubusercontent.com/90696675/235830530-21329c2d-212c-4390-ac9a-219f3c644e19.mp4
 
 ### Home Page
 Home page menampilkan profil singkat tentang diri saya dan jenjang perkuliahan saya.
-![Home](https://github.com/liam3333/Profile/blob/main/Dokumentasi/HomePage.jpg)
 ![Home](https://github.com/liam3333/Profile/blob/main/Dokumentasi/HomePage.jpg)
 
 ### About Me
@@ -32,6 +32,3 @@ Education menampilkan bagaimana jenjang pendidikan saya sebelumnya dimulai dari 
 
 ### Favorite
 Favorite menampilkan daftar hero yang sering saya gunakan beserta role, winrate, hero power, dan matches. Detailnya dapat dilihat melalui dokumentasi video berikut.
-
-## Tampilan Dokumentasi
-https://user-images.githubusercontent.com/90696675/235830530-21329c2d-212c-4390-ac9a-219f3c644e19.mp4
